@@ -1,0 +1,5 @@
+Integer subtraction works by taking an integer and reducing its value by another integer.
+  EX: 15 - 5
+           -1   -2   -3    -4    -5
+      15 → 14 → 13 → 12  → 11  → 10
+      15 - 5 = 10
